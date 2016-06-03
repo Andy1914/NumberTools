@@ -1,14 +1,5 @@
 <?php
 
-/* Tutorial by AwesomePHP.com -> www.AwesomePHP.com */
-/* Function: download with resume/speed/stream options */
-
-/*
- * Parametrs: downloadFile(File Location, File Name,
- * max speed, is streaming
- * If streaming - movies will show as movies, images as images
- * instead of download prompt
- */
 function downloadFile($fileLocation, $fileName, $maxSpeed = 13, $doStream = false)
 {
     if (connection_status() != 0)
