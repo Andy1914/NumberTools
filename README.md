@@ -1,2 +1,2 @@
 # NumberTools
-The PHP Number Tools class provides an easy-to-use collection of number manipulation helpers functions that you can quickly use into your own project to save you time and effort.
+Number Tools is an application that provides an easy-to-use collection of number manipulation, which can be used for various reasons. It is written in PHP.
